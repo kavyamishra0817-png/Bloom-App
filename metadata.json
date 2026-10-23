@@ -1,0 +1,6 @@
+{
+  "name": "Bloom Cake & Coffee Mobile App",
+  "description": "Ứng dụng di động cao cấp cho thương hiệu Bloom Cake & Coffee: Đặt hàng giao tận nơi hoặc đến lấy, quản lý địa chỉ, ví ưu đãi, tích điểm QR thành viên, theo dõi đơn hàng thời gian thực và đánh giá dịch vụ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
